@@ -1,0 +1,21 @@
+/* @media sscreen (max-width: 500px) {
+    body{
+
+    }
+} */
+button {
+    height: 2.3rem;
+    background: #1b75bc;
+    border: 1px solid #1b75bc;
+    color: #fff;
+    font-size: 1rem;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+button:hover {
+    color: #fff;
+    background-color: #132c4e;
+}

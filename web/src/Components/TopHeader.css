@@ -1,0 +1,16 @@
+@media screen and (max-width:1024px){
+    .TopHeader .content {
+        display: flex;
+        height: 800px;
+    }
+    #image_1{
+        height: 80px;
+    }
+    #image_2 {
+        height: 80px;
+    }
+    p {
+        font-size: 20px;
+        margin: auto;
+    }
+}
